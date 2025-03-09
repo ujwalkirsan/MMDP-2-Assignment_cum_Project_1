@@ -1,0 +1,25 @@
+Download started at 2025-03-09 00:46:46
+Attempting to download additional national anthem MP3 files
+
+FOUND: Country page exists for 'ma'
+FOUND: Country page exists for 'mc'
+FOUND: Country page exists for 'md'
+FOUND: Country page exists for 'me'
+FOUND: Country page exists for 'mf'
+FOUND: Country page exists for 'mg'
+FOUND: Country page exists for 'mh'
+FOUND: Country page exists for 'mk'
+FOUND: Country page exists for 'ml'
+FOUND: Country page exists for 'mm'
+FOUND: Country page exists for 'mn'
+FOUND: Country page exists for 'mo'
+FOUND: Country page exists for 'mp'
+FOUND: Country page exists for 'mq'
+FOUND: Country page exists for 'mr'
+FOUND: Country page exists for 'mw'
+FOUND: Country page exists for 'mx'
+FOUND: Country page exists for 'my'
+FOUND: Country page exists for 'mz'
+SUCCESS: ma: Download successful
+SUCCESS: mc: Download successful
+SUCCESS: md: Download successful

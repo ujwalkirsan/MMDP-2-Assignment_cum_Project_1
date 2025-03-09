@@ -1,0 +1,7 @@
+dataset_name: Image_MultiModalVerse_20
+total_images: 1000
+categories: 20
+images_per_category: {'cats': 50, 'dogs': 50, 'cars': 50, 'bicycles': 50, 'mountains': 50, 'beaches': 50, 'planes': 50, 'flowers': 50, 'buildings': 50, 'birds': 50, 'computers': 50, 'books': 50, 'trees': 50, 'fruits': 50, 'shoes': 50, 'clocks': 50, 'guitars': 50, 'robots': 50, 'bridges': 50, 'cakes': 50}
+avg_width: 235.772
+avg_height: 178.866
+avg_file_size_kb: 9.687138671875

@@ -1,0 +1,101 @@
+country,width,height,aspect_ratio,num_colors,colors,basic_colors,rect,circle,path,polygon,line,polyline,ellipse,text,aspect_ratio_category,total_elements
+ad,1000.0,700.0,1.4285714285714286,9,"#0065bd,#d0103a,#ffffff,#c7b37f,#fcd900,#0018a8,#d52b1e,#fedf00,#703d29","cyan,red,white,yellow,yellow,blue,red,yellow,red",0,0,122,0,0,0,0,0,~3:2,122
+ae,6.0,3.0,2.0,3,"#ffffff,#00843D,#C8102E","white,green,red",0,0,4,0,0,0,0,0,~2:1,4
+af,900.0,600.0,1.5,3,"#d32011,#007a36,#ffffff","red,green,white",0,0,4,0,0,0,0,0,~3:2,4
+ag,138.0,92.0,1.5,4,"#ce1126,#0072c6,#ffffff,#fcd116","red,cyan,white,yellow",0,0,5,0,0,0,0,0,~3:2,5
+ai,1200.0,600.0,2.0,6,"#99ccff,#c8102e,#ffffff,#012169,#cccc33,#ff9900","blue,red,white,blue,yellow,yellow",0,3,13,0,0,0,0,0,~2:1,16
+al,980.0,700.0,1.4,1,red,red,0,0,2,0,0,0,0,0,Between 1:1 and 3:2,2
+am,6.0,3.0,2.0,3,"#F2A800,#0033A0,#D90012","yellow,blue,red",0,0,3,0,0,0,0,0,~2:1,3
+ao,900.0,600.0,1.5,2,"#ffcb00,#cc092f","yellow,red",0,0,5,0,0,0,0,0,~3:2,5
+ar,800.0,500.0,1.6,5,"#85340a,#ffffff,#74acdf,#843511,#f6b40e","red,white,cyan,red,yellow",0,2,11,0,0,0,0,0,~3:2,13
+as,1000.0,500.0,2.0,8,"#999999,#5A3719,#000066,#7B3C20,#FFC221,#BD1021,#AA5323,#FFFFFF","gray,red,blue,red,yellow,red,red,white",0,0,71,0,0,0,0,0,~2:1,71
+at,9.0,6.0,1.5,2,"#ed2939,#ffffff","red,white",0,0,2,0,0,0,0,0,~3:2,2
+au,10080.0,5040.0,2.0,3,"#012169,#e4002b,#ffffff","blue,red,white",0,0,9,0,0,0,0,0,~2:1,9
+aw,27.0,18.0,1.5,4,"#EF3340,#ffd100,#418fde,#FFFFFF","red,yellow,blue,white",0,0,3,0,0,0,0,0,~3:2,3
+ax,26.0,17.0,1.5294117647058822,3,"#0064AD,#FFD300,#Da0e15","cyan,yellow,red",0,0,5,0,0,0,0,0,~3:2,5
+az,1200.0,600.0,2.0,4,"#ed2939,#00b9e4,#3f9c35,#ffffff","red,cyan,green,white",0,2,4,0,0,0,0,0,~2:1,6
+ba,16.0,8.0,2.0,3,"#ffffff,#fecb00,#002395","white,yellow,blue",0,0,4,0,0,0,0,0,~2:1,4
+bb,24000.0,16000.0,1.5,3,"#ffc726,#00267f,#000000","yellow,blue,black",2,0,1,0,0,0,0,0,~3:2,3
+bd,20.0,12.0,1.6666666666666667,2,"#006a4e,#f42a41","cyan,red",0,1,1,0,0,0,0,0,Between 3:2 and 2:1,2
+be,45.0,39.0,1.1538461538461537,2,"#FAE042,#ED2939","yellow,red",0,0,3,0,0,0,0,0,Between 1:1 and 3:2,3
+bf,900.0,600.0,1.5,3,"#ef2b2d,#009e49,#fcd116","red,green,yellow",0,0,3,0,0,0,0,0,~3:2,3
+bg,5.0,3.0,1.6666666666666667,3,"#D62612,#00966E,#ffffff","red,cyan,white",0,0,3,0,0,0,0,0,Between 3:2 and 2:1,3
+bh,1500.0,900.0,1.6666666666666667,2,"#ce1126,#ffffff","red,white",0,0,2,0,0,0,0,0,Between 3:2 and 2:1,2
+bi,500.0,300.0,1.6666666666666667,3,"#ffffff,#ce1126,#1eb53a","white,red,green",0,1,4,0,0,0,0,0,Between 3:2 and 2:1,5
+bj,3.0,2.0,1.5,3,"#E8112D,#FCD116,#008751","red,yellow,cyan",0,0,3,0,0,0,0,0,~3:2,3
+bl,3.0,2.0,1.5,3,"#EC1920,#ffffff,#051440","red,white,blue",0,0,3,0,0,0,0,0,~3:2,3
+bm,1000.0,500.0,2.0,9,"#c8102e,#2f8f22,#ffffff,#012169,#e4cb5e,#f5ce00,#64b4d1,#000000,#784421","red,green,white,blue,yellow,yellow,cyan,black,red",0,0,92,0,0,0,4,0,~2:1,96
+bn,1440.0,720.0,2.0,4,"#cf1126,#000000,#ffffff,#f7e017","red,black,white,yellow",1,0,48,0,0,0,0,0,~2:1,49
+bo,291.042,198.438,1.4666646509237142,24,"#0079c7,#cbcbc9,#d9c753,#74b500,#909294,#272425,#ced0d1,#f4ac64,#040006,#59595b,#1b402f,#211915,#c8d700,#00a0e1,#ffffff,#b2aa00,#473125,#00702d,#d32011,#a4a5a8,#f0e53c,#cacaca,#000000,#292723","cyan,gray,yellow,yellow,gray,black,white,yellow,black,gray,cyan,black,yellow,cyan,white,yellow,red,green,red,gray,yellow,gray,black,black",0,0,898,0,0,0,0,0,~3:2,898
+br,4200.0,2940.0,1.4285714285714286,4,"#fedf00,#009b3a,#ffffff,#002776","yellow,green,white,blue",1,2,14,0,0,0,0,0,~3:2,17
+bs,6.0,3.0,2.0,2,"#00778B,#FFC72C","cyan,yellow",0,0,3,0,0,0,0,0,~2:1,3
+bw,36.0,24.0,1.5,2,"#ffffff,#6DA9D2","white,cyan",0,0,3,0,0,0,0,0,~3:2,3
+by,900.0,450.0,2.0,3,"#D22730,#ffffff,#009739","red,white,green",1,0,3,0,0,0,0,0,~2:1,4
+bz,1000.0,600.0,1.6666666666666667,24,"#ffe682,#171696,#4d4b4d,#006ac8,#ccb8c8,#004b00,#338a00,#006600,#b68a6a,#e8e8e6,#ffffff,#4d4d4d,#075400,#653024,#d90f19,#9dc9e2,#66ff66,#358b03,#003300,#5ac800,#ad7d5a,#d67c59,#ad7c59,#000000","yellow,blue,gray,cyan,gray,green,green,green,red,white,white,gray,green,red,red,cyan,green,green,green,green,red,red,red,black",0,1,103,0,0,0,0,0,Between 3:2 and 2:1,104
+ca,9600.0,4800.0,2.0,2,"#d52b1e,#ffffff","red,white",0,0,2,0,0,0,0,0,~2:1,2
+cd,800.0,600.0,1.3333333333333333,3,"#ce1021,#007fff,#f7d618","red,blue,yellow",0,0,3,0,0,0,0,0,Between 1:1 and 3:2,3
+cf,12.0,8.0,1.5,5,"#ffffff,#289728,#ffce00,#d21034,#003082","white,green,yellow,red,blue",0,0,5,0,0,0,0,0,~3:2,5
+cz,900.0,600.0,1.5,3,"#d7141a,#11457e,#ffffff","red,blue,white",2,0,1,0,0,0,0,0,~3:2,3
+de,5.0,3.0,1.6666666666666667,2,"#FFCE00,#DD0000","yellow,red",0,0,3,0,0,0,0,0,Between 3:2 and 2:1,3
+dj,15.0,10.0,1.5,4,"#ffffff,#6ab2e7,#d7141a,#12ad2b","white,cyan,red,green",0,0,4,0,0,0,0,0,~3:2,4
+dk,370.0,280.0,1.3214285714285714,2,"#ffffff,#c60c30","white,red",3,0,0,0,0,0,0,0,Between 1:1 and 3:2,3
+dm,1200.0,600.0,2.0,7,"#ffffff,#9c4a00,#fcd116,#9461c9,#006b3f,#d41c30,#000000","white,red,yellow,blue,cyan,red,black",0,2,27,0,0,0,45,0,~2:1,74
+do,900.0,600.0,1.5,14,"#201b18,#000000,#ffffff,#ffff00,#00873f,#eac102,#008f4c,#006300,olive,red,#ce1126,#002d62,#00863d,#aa241e","black,black,white,yellow,green,yellow,cyan,green,other,red,red,blue,green,red",0,0,94,0,0,0,0,0,~3:2,94
+dz,900.0,600.0,1.5,3,"#006233,#ffffff,#d21034","cyan,white,red",2,0,1,0,0,0,0,0,~3:2,3
+ec,1440.0,960.0,1.5,64,"#ebc900,#d0c9ce,#000000,#ed1c24,#023f88,#7a2e26,#616264,#d9c0b9,#a3a5a8,#080101,#d3dce0,#84848a,#9b7e39,#c6262c,#557176,#bd8759,#565759,#a37853,#755338,#c0cad0,#acacad,#c69024,#39b54a,#574f4c,#a48b58,#442c13,#6a5e46,#696161,#866d46,#895f33,#dcddde,#a2550b,#ffffff,#453717,#ffdf4f,#e8b909,#009c4f,#99afca,#007638,#5e3f17,#5c5342,#949699,#ffdd00,#ffe600,#b76e11,#2f3b30,#842116,#b87510,#64472d,#395054,#452c25,#2f2311,#939598,#6dbe45,#858d8d,#4f91c5,#797a7d,#999b9e,#ac620e,#b1babf,#de2126,#006c3c,#034ea2,#dba05f","yellow,white,black,red,blue,red,gray,red,gray,black,white,gray,yellow,red,cyan,red,gray,red,red,white,gray,yellow,green,red,yellow,yellow,yellow,gray,yellow,yellow,white,red,white,yellow,yellow,yellow,cyan,blue,green,yellow,yellow,gray,yellow,yellow,yellow,green,red,yellow,red,cyan,red,black,gray,green,gray,cyan,gray,gray,yellow,gray,red,cyan,blue,yellow",0,8,407,0,2,0,3,0,~3:2,420
+ee,33.0,21.0,1.5714285714285714,2,"#0072CE,#FFFFFF","cyan,white",0,0,3,0,0,0,0,0,~3:2,3
+eg,900.0,600.0,1.5,4,"#ce1126,#c09300,#000000,#ffffff","red,yellow,black,white",3,1,56,0,0,0,0,0,~3:2,60
+eh,600.0,300.0,2.0,4,"#007a3d,#c4111b,#000000,#ffffff","cyan,red,black,white",3,2,2,0,0,0,0,0,~2:1,7
+er,1000.0,500.0,2.0,4,"#ffc726,#ea0437,#12ad2b,#4189dd","yellow,red,green,blue",1,0,3,0,0,0,0,0,~2:1,4
+es,750.0,500.0,1.5,13,"#000000,#ffffff,#c60b1e,#005bbf,#0039f0,#ed72aa,#ffd691,#c8b100,#db4446,#ffc400,#058e6e,#cccccc,#ad1519","black,white,red,blue,blue,red,yellow,yellow,red,yellow,cyan,gray,red",0,0,172,0,0,0,94,0,~3:2,266
+et,720.0,360.0,2.0,4,"#0f47af,#078930,#fcdd09,#da121a","blue,green,yellow,red",0,1,5,0,0,0,0,0,~2:1,6
+eu,810.0,540.0,1.5,2,"#003399,#ffcc00","blue,yellow",0,0,2,0,0,0,0,0,~3:2,2
+fi,1800.0,1100.0,1.6363636363636365,2,"#003580,#ffffff","blue,white",3,0,0,0,0,0,0,0,Between 3:2 and 2:1,3
+fj,1200.0,600.0,2.0,9,"#c8102e,#00ad50,#69b3e7,#ffffff,#012169,#fedd00,#862633,#000000,#FFFFFF","red,green,cyan,white,blue,yellow,red,black,white",0,4,94,0,0,0,4,0,~2:1,102
+fk,1200.0,600.0,2.0,67,"#fec618,#012169,#a1a1a1,#d0a386,#c98c26,#d4d4d4,#e9b001,#c99472,#c8102e,#f2d196,#fed65b,#294814,#e96a01,#e2a950,#e6ba74,#c27e50,#fedf82,#e6c74d,#acacac,#552200,#ab1e2b,#c47645,#f9e7d9,#c9c9c9,red,#7d5035,#efc9b2,#d05f01,#007300,#512007,#dec7b7,#d7b5a0,#ab612e,#d6b39d,#dd8b59,#951b1d,#2c1c12,#ffffff,#2b1100,#faecbd,#ae4c33,#6f3f1e,#e98e01,#550000,#662900,#3d6c1e,#fec413,#dba35a,#959595,#333333,#e2b269,#ca6b5b,#181818,#794d2f,#e6ab87,#e6e600,#eed3a6,#280b0b,#8a8a8a,#e5e5e5,#aa0000,#fecf3e,#98b432,#2a7fff,#b3b3b3,#e9be79,#000000","yellow,blue,gray,red,yellow,white,yellow,red,red,yellow,yellow,green,red,yellow,yellow,red,yellow,yellow,gray,red,red,red,red,gray,red,red,red,red,green,red,red,red,red,red,red,red,black,white,black,yellow,red,red,yellow,red,red,green,yellow,yellow,gray,gray,yellow,red,black,red,red,yellow,yellow,black,gray,white,red,yellow,yellow,blue,gray,yellow,black",4,0,233,0,0,0,1,0,~2:1,238
+fm,38.0,20.0,1.9,2,"#ffffff,#75b2dd","white,cyan",1,0,1,0,0,0,0,0,Between 3:2 and 2:1,2
+fo,22.0,16.0,1.375,3,"#ED2939,#FFFFFF,#0065BD","red,white,cyan",5,0,0,0,0,0,0,0,Between 1:1 and 3:2,5
+fr,3.0,2.0,1.5,3,"#EC1920,#ffffff,#051440","red,white,blue",0,0,3,0,0,0,0,0,~3:2,3
+ga,400.0,300.0,1.3333333333333333,3,"#009e60,#3a75c4,#fcd116","cyan,blue,yellow",3,0,0,0,0,0,0,0,Between 1:1 and 3:2,3
+gb,60.0,30.0,2.0,3,"#012169,#ffffff,#C8102E","blue,white,red",0,0,7,0,0,0,0,0,~2:1,7
+gd,500.0,300.0,1.6666666666666667,3,"#ce1126,#fcd116,#007a5e","red,yellow,cyan",0,1,5,0,0,0,0,0,Between 3:2 and 2:1,6
+ge,300.0,200.0,1.5,2,"red,#ffffff","red,white",0,0,4,0,0,0,0,0,~3:2,4
+gg,36.0,24.0,1.5,3,"#f9dd16,#e8112d,white","yellow,red,white",1,0,2,0,0,0,0,0,~3:2,3
+gh,450.0,300.0,1.5,4,"#ce1126,#000000,#006b3f,#fcd116","red,black,cyan,yellow",3,0,1,0,0,0,0,0,~3:2,4
+gi,512.0,256.0,2.0,4,"#f8d80e,#000000,#ffffff,#da000c","yellow,black,white,red",7,0,34,0,0,0,0,0,~2:1,41
+gl,18.0,12.0,1.5,2,"#ffffff,#d00c33","white,red",1,0,1,0,0,0,0,0,~3:2,2
+gm,27.0,18.0,1.5,4,"#CE1126,#FFFFFF,#0C1C8C,#3A7728","red,white,blue,green",0,0,4,0,0,0,0,0,~3:2,4
+gn,3.0,2.0,1.5,3,"#ce1126,#009460,#fcd116","red,cyan,yellow",3,0,0,0,0,0,0,0,~3:2,3
+gq,3600.0,2400.0,1.5,9,"#ffffff,#73452b,#e32118,#009a3b,#a36629,#3e9a00,#ffd700,#000000,#0073ce","white,red,red,green,yellow,green,yellow,black,cyan",3,0,55,0,0,0,0,0,~3:2,58
+gr,27.0,18.0,1.5,2,"#0D5EAF,#FFFFFF","blue,white",0,0,2,0,0,0,0,0,~3:2,2
+gt,960.0,600.0,1.6,22,"#511124,#34541f,#eac102,#8c959d,#999270,#fab81c,#351710,#4c0505,#406325,#ba1f3e,#ffffff,#a08307,#f9f0aa,#448127,#4997d0,#485654,#67923d,#24420e,#6c301e,#b2b6ba,#b07e09,#000000","red,green,yellow,cyan,yellow,yellow,red,red,green,red,white,yellow,yellow,green,cyan,cyan,green,green,red,gray,yellow,black",0,20,95,0,4,0,2,0,~3:2,121
+gu,216958.34,116416.66,1.863636527624139,11,"#ffde52,#008ce7,#109421,#ffffff,#8c4200,#fdf9ff,#9c8431,#bd0728,#c62139,#00297b,#92dbfc","yellow,cyan,green,white,red,white,yellow,red,red,blue,cyan",0,0,14,0,0,0,3,0,Between 3:2 and 2:1,17
+gw,12.0,6.0,2.0,4,"#ce1126,#009e49,#000000,#fcd116","red,green,black,yellow",3,0,1,0,0,0,0,0,~2:1,4
+gy,500.0,300.0,1.6666666666666667,5,"#ffffff,#fcd116,#009e49,#ce1126,#000000","white,yellow,green,red,black",1,0,4,0,0,0,0,0,Between 3:2 and 2:1,5
+id,3.0,2.0,1.5,2,"red,#ffffff","red,white",0,0,2,0,0,0,0,0,~3:2,2
+ie,6.0,3.0,2.0,3,"#ffffff,#FF8200,#009A44","white,yellow,green",0,0,3,0,0,0,0,0,~2:1,3
+il,1100.0,800.0,1.375,2,"#0038b8,#ffffff","blue,white",0,0,3,0,0,0,0,0,Between 1:1 and 3:2,3
+im,600.0,300.0,2.0,4,"#f9dd16,#cf142b,#000000,#ffffff","yellow,red,black,white",0,0,9,0,0,0,0,0,~2:1,9
+in,900.0,600.0,1.5,4,"#128807,#000088,#ffffff,#ff9933","green,blue,white,yellow",0,4,4,0,0,0,0,0,~3:2,8
+iq,900.0,600.0,1.5,3,"#007a3d,#ce1126,#ffffff","cyan,red,white",0,1,5,0,0,0,0,0,~3:2,6
+ir,630.0,360.0,1.75,3,"#239f40,#da0000,#ffffff","green,red,white",3,0,6,0,0,0,0,0,Between 3:2 and 2:1,9
+is,25.0,18.0,1.3888888888888888,3,"#D50032,#FFFFFF,#003087","red,white,blue",0,0,3,0,0,0,0,0,Between 1:1 and 3:2,3
+it,3.0,2.0,1.5,3,"#008C45,#CD212A,#ffffff","green,red,white",0,0,3,0,0,0,0,0,~3:2,3
+je,30.0,18.0,1.6666666666666667,7,"#f9dd16,#ffffff,#df112d,#e8112d,#0051ba,#ff0016,#000000","yellow,white,red,red,blue,red,black",0,0,13,0,0,0,0,0,Between 3:2 and 2:1,13
+jm,12.0,6.0,2.0,3,"#2d2926,#007749,#ffb81c","black,cyan,yellow",0,0,3,0,0,0,0,0,~2:1,3
+jo,840.0,420.0,2.0,4,"#007a3d,#ce1126,#000000,#ffffff","cyan,red,black,white",3,0,2,0,0,0,0,0,~2:1,5
+jp,900.0,600.0,1.5,2,"#bc002d,#ffffff","red,white",1,1,0,0,0,0,0,0,~3:2,2
+ke,240.0,160.0,1.5,4,"#006600,#000000,#ffffff,#bb0000","green,black,white,red",3,0,4,0,0,0,1,0,~3:2,8
+kg,1000.0,600.0,1.6666666666666667,2,"#fedd00,#ee2737","yellow,red",0,0,2,0,0,0,0,0,Between 3:2 and 2:1,2
+kh,625.0,400.0,1.5625,4,"#e00025,#032ea1,#000000,#ffffff","red,blue,black,white",20,0,71,0,0,0,0,0,~3:2,91
+ki,600.0,300.0,2.0,5,"#ffffff,#f8d000,#183070,#000000,#c81010","white,yellow,blue,black,red",0,1,10,0,0,0,0,0,~2:1,11
+km,500.0,300.0,1.6666666666666667,5,"#CE1126,#3A75C4,#3D8E33,#FFC61E,#FFFFFF","red,blue,green,yellow,white",4,2,2,0,0,0,0,0,Between 3:2 and 2:1,8
+kn,750.0,500.0,1.5,5,"#ffffff,#fcd116,#009e49,#ce1126,#000000","white,yellow,green,red,black",0,0,6,0,0,0,0,0,~3:2,6
+kp,72.0,36.0,2.0,3,"#ffffff,#ED1C27,#024FA2","white,red,blue",3,1,0,1,0,0,0,0,~2:1,5
+kr,72.0,48.0,1.5,4,"#cd2e3a,#0047a0,#000000,#ffffff","red,blue,black,white",0,1,5,0,0,0,0,0,~3:2,6
+kw,12.0,6.0,2.0,3,"#007a3d,#ce1126,#ffffff","cyan,red,white",3,0,0,1,0,0,0,0,~2:1,4
+ky,1200.0,600.0,2.0,11,"#c8102e,#00493d,#f9d050,#ffffff,#073163,#012169,#059334,#0b50a0,#fcea83,#024919,#000000","red,cyan,yellow,white,blue,blue,green,blue,yellow,green,black",0,0,62,0,0,0,0,0,~2:1,62
+kz,2000.0,1000.0,2.0,2,"#fec50c,#00afca","yellow,cyan",1,3,6,0,0,0,0,0,~2:1,10
+ma,9.0,6.0,1.5,2,"#006341,#B7312C","cyan,red",0,0,2,0,0,0,0,0,~3:2,2
+mc,5.0,4.0,1.25,2,"#FFFFFF,#CE1126","white,red",0,0,2,0,0,0,0,0,Between 1:1 and 3:2,2
+md,1800.0,900.0,2.0,5,"#FFD100,#003DA5,#C8102E,#AD7C59,#007749","yellow,blue,red,red,cyan",0,11,36,0,0,0,1,0,~2:1,48
